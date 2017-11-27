@@ -1,6 +1,6 @@
 # 500-ds-and-algos
 
-500 Data Structures and Algorithms practice problems and their solutions taken from [here](https://medium.com/@kingrayhan/500-data-structures-and-algorithms-practice-problems-and-their-solutions-b45a83d803f0)
+500 Data Structures and Algorithms practice problems and their solutions taken from [here](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions?__filter__&__nsrc__=2&__snid3__=1594232728&amp;share=1#)
 
 #### Array
 - [ ] [Find pair with given sum in the array](http://www.techiedelight.com/find-pair-with-given-sum-array/)
