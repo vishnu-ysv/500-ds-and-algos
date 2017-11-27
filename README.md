@@ -350,7 +350,7 @@
 - [ ] [Print Matrix in Spiral Order](http://www.techiedelight.com/print-matrix-spiral-order/)
 - [ ] [Create Spiral Matrix from given array](http://www.techiedelight.com/create-spiral-matrix-given-array/)
 - [ ] [Shift all matrix elements by 1 in Spiral Order](http://www.techiedelight.com/shift-matrix-elements-1-spiral-order/)
-- [ ][Find Shortest path from source to destination in a matrix that satisfies given constraints](http://www.techiedelight.com/find-shortest-path-source-destination-matrix-satisfies-given-constraints/)
+- [ ] [Find Shortest path from source to destination in a matrix that satisfies given constraints](http://www.techiedelight.com/find-shortest-path-source-destination-matrix-satisfies-given-constraints/)
 - [ ] [Change all elements of row i and column j in a matrix to 0 if cell (i, j) has value 0](http://www.techiedelight.com/change-elements-row-column-j-matrix-0-cell-j-value-0/)
 - [ ] [Print diagonal elements of the matrix having positive slope](http://www.techiedelight.com/print-matrix-diagonally-positive-slope/)
 - [ ] [Find all paths from first cell to last cell of a matrix](http://www.techiedelight.com/find-all-paths-from-source-to-destination-in-matrix/)
