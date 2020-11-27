@@ -3,9 +3,9 @@
 500 Data Structures and Algorithms practice problems and their solutions taken from [here](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions?__filter__&__nsrc__=2&__snid3__=1594232728&amp;share=1#)
 
 #### Array
-- [ ] [Find pair with given sum in the array](http://www.techiedelight.com/find-pair-with-given-sum-array/)
-- [ ] [Find sub-array with 0 sum](http://www.techiedelight.com/find-sub-array-with-0-sum/)
-- [ ] [Sort binary array in linear time](http://www.techiedelight.com/sort-binary-array-linear-time/)
+- [x] [Find pair with given sum in the array](http://www.techiedelight.com/find-pair-with-given-sum-array/)
+- [x] [Find sub-array with 0 sum](http://www.techiedelight.com/find-sub-array-with-0-sum/)
+- [x] [Sort binary array in linear time](http://www.techiedelight.com/sort-binary-array-linear-time/)
 - [ ] [Find a duplicate element in a limited range array](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
 - [ ] [Find largest sub-array formed by consecutive integers](http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/)
 - [ ] [Find maximum length sub-array having given sum](http://www.techiedelight.com/find-maximum-length-sub-array-having-given-sum/)
