@@ -461,8 +461,8 @@
 #### String
 
 - [x] [Check if given set of moves is circular or not](http://www.techiedelight.com/check-given-set-moves-circular-not/)
-- [ ] [Check if given string is a rotated palindrome or not](http://www.techiedelight.com/check-given-string-rotated-palindrome-not/)
-- [ ] [Longest Palindromic Substring (Non-DP Space Optimized Solution)](http://www.techiedelight.com/longest-palindromic-substring-non-dp-space-optimized-solution/)
+- [x] [Check if given string is a rotated palindrome or not](http://www.techiedelight.com/check-given-string-rotated-palindrome-not/)
+- [x] [Longest Palindromic Substring (Non-DP Space Optimized Solution)](http://www.techiedelight.com/longest-palindromic-substring-non-dp-space-optimized-solution/)
 - [ ] [Check if repeated subsequence is present in the string or not](http://www.techiedelight.com/check-repeated-subsequence-present-string-not/)
 - [ ] [Check if strings can be derived from each other by circularly rotating them](http://www.techiedelight.com/check-strings-can-derived-circularly-rotating/)
 - [ ] [Convert given number into corresponding excel column name](http://www.techiedelight.com/convert-given-number-corresponding-excel-column-name/)
