@@ -11,7 +11,7 @@
 - [x] [Find maximum length sub-array having given sum](http://www.techiedelight.com/find-maximum-length-sub-array-having-given-sum/)
 - [x] [Find maximum length sub-array having equal number of 0’s and 1’s](http://www.techiedelight.com/find-maximum-length-sub-array-equal-number-0s-1s/)
 - [x] [Sort an array containing 0’s, 1’s and 2’s(Dutch national flag problem)](http://www.techiedelight.com/sort-array-containing-0s-1s-2s-dutch-national-flag-problem/)
-- [ ] [Inplace merge two sorted arrays](http://www.techiedelight.com/inplace-merge-two-sorted-arrays/)
+- [x] [Inplace merge two sorted arrays](http://www.techiedelight.com/inplace-merge-two-sorted-arrays/)
 - [ ] [Merge two arrays by satisfying given constraints](http://www.techiedelight.com/merge-two-arrays-satisfying-given-constraints/)
 - [ ] [Find index of 0 to replaced to get maximum length sequence of continuous ones](http://www.techiedelight.com/find-index-0-replaced-get-maximum-length-sequence-of-continuous-ones/)
 - [ ] [Find maximum product of two integers in an array](http://www.techiedelight.com/find-maximum-product-two-integers-array/)
