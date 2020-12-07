@@ -133,10 +133,10 @@
 - [ ] [Huffman Coding](http://www.techiedelight.com/huffman-coding/)
 
 #### Binary Tree
-- [ ] [Check if two given binary trees are identical or not | Iterative &amp; Recursive](http://www.techiedelight.com/check-if-two-binary-trees-are-identical-not-iterative-recursive/)
-- [ ] [Calculate height of a binary tree | Iterative &amp; Recursive](http://www.techiedelight.com/calculate-height-binary-tree-iterative-recursive/)
+- [x] [Check if two given binary trees are identical or not | Iterative &amp; Recursive](http://www.techiedelight.com/check-if-two-binary-trees-are-identical-not-iterative-recursive/)
+- [x] [Calculate height of a binary tree | Iterative &amp; Recursive](http://www.techiedelight.com/calculate-height-binary-tree-iterative-recursive/)
 - [ ] [Delete given Binary Tree | Iterative &amp; Recursive](http://www.techiedelight.com/delete-given-binary-tree-iterative-recursive/)
-- [ ] [Inorder Tree Traversal | Iterative &amp; Recursive](http://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)
+- [x] [Inorder Tree Traversal | Iterative &amp; Recursive](http://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/)
 - [ ] [Preorder Tree Traversal | Iterative &amp; Recursive](http://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/)
 - [ ] [Postorder Tree Traversal | Iterative &amp; Recursive](http://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/)
 - [ ] [Level Order Traversal of Binary Tree](http://www.techiedelight.com/level-order-traversal-binary-tree/)
